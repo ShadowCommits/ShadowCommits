@@ -51,10 +51,10 @@
        <table border="0" cellpadding="15" cellspacing="0" style="background: #1a1a1a; border-radius: 8px;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shadowcommit&show_icons=true&theme=radical&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=shadowcommits&show_icons=true&theme=radical&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcommit&theme=radical&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"  />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcommits&theme=radical&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"  />
       </td>
     </tr>
   </table>
