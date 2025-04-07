@@ -48,10 +48,10 @@
     <div style="position: absolute; left: 10px; top: 0; width: 10px; height: 10px; background: #FF0000; border-radius: 50%; box-shadow: 0 0 10px #FF0000;"></div>
     <div style="background: #1a1a1a; padding: 15px; border-radius: 8px; border-left: 4px solid #FF0000; transition: all 0.3s;" onmouseover="this.style.boxShadow='0 0 15px rgba(255, 0, 0, 0.5)'" onmouseout="this.style.boxShadow='none'">
       <h2 style="color: #FF0000; margin: 0 0 10px 0; font-size: 1.5em;">// Performance</h2>
-      <div style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shadowcommit&show_icons=true&theme=radical&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000" style="max-width: 100%; margin-bottom: 10px;" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcommit&theme=radical&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" style="max-width: 100%;" />
-      </div>
+       <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shadowcommit&show_icons=true&theme=radical&hide_border=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000&bg_color=000000" style="max-width: 100%; " />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowcommit&theme=radical&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" style="max-width: 100%;" />
+  </div>
     </div>
   </div>
 
